@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".gitlab/logo.svg" width="160px">
+  <img alt="Letmeask" src="img/logo.svg" width="160px">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".gitlab/cover.svg" />
+    <img alt="Letmeask" src="img/cover.svg" />
 </h1>
 
 <br>
@@ -27,14 +27,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 
-Clone o projeto e acesse a pasta do mesmo.
+Clone o projeto e acesse a sua pasta.
 
 ```bash
 $ git clone https://github.com/rocketseat-education/nlw-06-reactjs
 $ cd nlw-06-reactjs
 ```
 
-Para iniciá-lo, siga os passos abaixo:
+Para iniciar, siga os passos abaixo:
 ```bash
 # Instalar as dependências
 $ yarn
@@ -50,7 +50,7 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021 por [Diego Fernandes](https://github.com/diego3g).
 
 
 ## 🔖 Layout
