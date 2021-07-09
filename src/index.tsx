@@ -1,17 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import './styles/global.scss'
+import './services/firebase';
 
+//pega o <div id="root"></div> do HTML e coloca isso dentro dele
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App /> {/*esse App está vindo de outro arquivo */}
+    {/* Seria possível trocar esse App por uma tag html diretamente */}
   </React.StrictMode>,
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
